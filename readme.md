@@ -1,6 +1,7 @@
 # Vesuvius Grandprize Winning Solution
 ![Vesuvius Challenge GP Solution](pictures/logo.png)
 
+
 The Repository contains the First Place Vesuvius Grand Prize solution. 
 This repository is part of the First Place Grand Prize Submission to the Vesuvius Challenge 2023 from Youssef Nader, Luke Farritor and Julian Schilliger.
 
